@@ -1,0 +1,32 @@
+{
+  "name": "achacks",
+  "version": "1.0.0",
+  "description": "website for the the Hackathon to take place in the college soon.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AC-Computer-Engineering-Technology/acHacks.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "css",
+    "js",
+    "html",
+    "achacks"
+  ],
+  "author": "Jesse Okeya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AC-Computer-Engineering-Technology/acHacks/issues"
+  },
+  "homepage": "https://github.com/AC-Computer-Engineering-Technology/acHacks#readme"
+}
