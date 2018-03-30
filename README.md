@@ -1,5 +1,6 @@
 # acHacks
 ` website for the the Hackathon to take place in the college soon. `
+[`acHacks Docs`](https://ac-computer-engineering-technology.github.io/acHacks/)
 
 # How To Run The App
 ## prequisites 
