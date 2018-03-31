@@ -1,0 +1,22 @@
+.map-marker {
+  color: #C0392B;
+}
+
+.map-container {
+  width: 100%;
+  height: 75vh;
+}
+
+.map-main {
+  height: 70vh;
+  width: 100%;
+}
+
+.frame {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 100%;
+  height: 55vh;
+  border: none;
+  border-style: none;
+}
